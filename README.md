@@ -1,2 +1,3 @@
 # choco-rating
-datascience 
+
+INT14120 Final Assignment
